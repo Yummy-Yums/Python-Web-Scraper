@@ -26,7 +26,7 @@ def handle_url_requests(input_url):
     retrieve_page = requests.get(input_url)
 
     if retrieve_page.status_code != 200:
-        logging.error("Something is Wrong about the input Url. please open a browser and check whether it's valid")
+        logging.error("Something is Wrong with the provided input Url. please open a browser and check whether it's valid")
         sys.exit()
 
     # with os.scandir(DIRECTORY_PATH) as entries:
