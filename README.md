@@ -1,4 +1,4 @@
-# Web-Scraper
+# Python Web-Scraper
 Solution to the Devprojects Web Scraper --> https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe
 
 ## Introduction
